@@ -1,2 +1,2 @@
-# .github
+# .AboutCompany
 ECOSIRE TECHNOLOGIES
