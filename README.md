@@ -1,2 +1,2 @@
-# .AboutCompany
+About Company
 ECOSIRE TECHNOLOGIES
